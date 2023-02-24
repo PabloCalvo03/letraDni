@@ -28,6 +28,7 @@ input{
   border-color: black;
   border-radius: 10px;
   margin-bottom: 39.932px;
+  min-width: 300px;
 }
 
 input:focus{
@@ -43,6 +44,7 @@ button{
   padding-right: 2px;
   border-color: black;
   font-weight: bold;
+  min-width: 300px;
 }
 
 button:active{
