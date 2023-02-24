@@ -59,7 +59,7 @@ function App() {
         DniWord = "E"
         htmlToIntroduce = `<h1>La letra es: <span id="letra">${DniWord}</span> </h1>`;
      } else {
-        htmlToIntroduce = `<h3 id="error">Error en el numero introducido.<h3>`;
+        htmlToIntroduce = `<h3 id="error">Copy con.<h3>`;
      }
 
      document.getElementById("toChange").innerHTML = htmlToIntroduce;
